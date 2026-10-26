@@ -2,7 +2,6 @@
 
 A one-page personal website for Jinyuan Li, a student at Shenzhen College of International Education, built for college applications. It presents Jinyuan's interests, awards, history research and science projects in five sections, each named with a Latin word.
 
-Live version: https://claude.ai/artifact/F4cdgVCU27Mb3Ae9pz1rDc (private until shared from the page's Share menu)
 
 ## Sections
 
