@@ -120,6 +120,7 @@ nav ul a:hover, nav ul a.active { color: var(--lapis); border-bottom-color: var(
 .kind { font-family: var(--mono); font-size: .75rem; letter-spacing: .14em; text-transform: uppercase; color: var(--gilt); }
 .featured h3 { margin-top: 8px; font-size: 1.6rem; font-weight: 500; line-height: 1.25; }
 .featured p { color: var(--muted); font-size: 1.1rem; }
+.featured .stack-col { display: grid; gap: 18px; justify-items: start; }
 
 /* Chapter headings */
 section.chapter { padding-block: clamp(64px, 9vw, 104px); }
@@ -353,7 +354,10 @@ footer .name { font-family: var(--display); font-weight: 600; letter-spacing: .1
           <span class="kind">Documentary video</span>
           <h3>The Hundred-Year Influence of Addiction</h3>
         </div>
-        <p>Motivated by my historical studies surrounding the Opium War, I set out to illustrate addiction across generations.</p>
+        <div class="stack-col">
+          <p>Motivated by my historical studies surrounding the Opium War, I set out to illustrate addiction across generations.</p>
+          <div class="links"><a class="btn" href="https://youtu.be/IuFaEH-GAzY" target="_blank" rel="noopener">Watch on YouTube ↗</a></div>
+        </div>
       </div>
     </div>
   </div>

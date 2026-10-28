@@ -31,6 +31,7 @@ To add or replace a photo, put the original in `images/`, save a web-sized JPEG 
 - Self-Strengthening Movement paper: https://drive.google.com/file/d/11DPT1roMaj6LJ1SyZiN5bicZN0eFecwm/view
 - 1840 Opium War Debates: https://drive.google.com/file/d/1Bq2FpkpoIY7g7QO7wVCSOVXVgO_BJYsp/view
 - Islands of Contention: https://drive.google.com/file/d/1maOhhCAZAE6imSdKDwSYwX3rbwbS60AI/view
+- The Hundred-Year Influence of Addiction (documentary): https://youtu.be/IuFaEH-GAzY
 - French Revolution documentary: https://youtu.be/-d9eSyiYtLk
 - Charles Elliot exhibition: https://charleselliot.framer.website/
 
@@ -63,7 +64,5 @@ Then put `</head><body>` after the closing `</style>` tag and `</body></html>` a
 
 ## To do
 
-- Add a link for *The Hundred-Year Influence of Addiction* documentary
-- Add food photos to the Feasting card (optional)
 - Decide whether to add a contact email to the footer
 - Check The Concord Review's policy before sharing the 1840 Opium War paper publicly while it is under review
