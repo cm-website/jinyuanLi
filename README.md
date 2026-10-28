@@ -20,7 +20,11 @@ Live version: https://claude.ai/artifact/F4cdgVCU27Mb3Ae9pz1rDc (private until s
 |---|---|
 | `index.html` | The whole website: content, styling and a small script, all in one file |
 | `Website Organisation.docx` | Source text the website was written from |
-| `*.pdf` | Local copies of the four papers (the site links to the Google Drive versions) |
+| `images/` | Original photos and certificate PDFs, as supplied |
+| `assets/` | Web-sized copies of the photos and certificates that the site actually loads |
+| `assets/thumbs/` | Small square thumbnails used on the Passio cards and in the photo viewer |
+
+To add or replace a photo, put the original in `images/`, save a web-sized JPEG (about 1600px on the long side) in `assets/` and a 160×160 crop in `assets/thumbs/` with the same file name, then add its name to the matching gallery in the `galleries` list near the bottom of `index.html`.
 
 ## Links used on the site
 
